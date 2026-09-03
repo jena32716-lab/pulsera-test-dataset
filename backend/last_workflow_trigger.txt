@@ -1,5 +1,3 @@
-Triggered weak-labeling and training workflow on behalf of user.
+Re-triggering workflow: second trigger to run weak_labeling + train_with_weak_labels
 
-This file was created to trigger the GitHub Actions workflow that runs weak_labeling.py and train_with_weak_labels.py and uploads models as an artifact.
-
-Trigger timestamp: 2026-09-03T17:59:00Z
+Trigger timestamp: 2026-09-03T18:12:00Z
