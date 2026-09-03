@@ -1,0 +1,8 @@
+# Backend requirements
+Flask
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+gunicorn

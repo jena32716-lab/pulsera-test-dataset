@@ -1,0 +1,5 @@
+# Ignore Python virtualenv and node modules
+.venv
+node_modules
+build
+.env
